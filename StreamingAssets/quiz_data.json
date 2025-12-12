@@ -1,0 +1,20 @@
+{
+    "quizzes": [
+        {
+            "question": "日本で一番高い山は何？",
+            "answer": "富士山"
+        },
+        {
+            "question": "Unityの開発言語は主に何？",
+            "answer": "C#"
+        },
+        {
+            "question": "赤い果物といえば？",
+            "answer": "リンゴ"
+        },
+        {
+            "question": "ｲﾔ~ﾝ♥ Yamazakiは誰？",
+            "answer": "山崎春のパン祭り"
+        }
+    ]
+}
